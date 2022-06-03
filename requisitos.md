@@ -1,7 +1,7 @@
 
 Requisitos do projeto:
 
-->TELA INICIAL
+-> TELA INICIAL
 
 Pessoas realizarem cadastro;                 
 Usuários realizarem login (com cpf ou email);        
