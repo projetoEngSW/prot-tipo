@@ -8,4 +8,4 @@ tela cadastro (X)
 tela divulgarVaga (X)             
 tela logadoOrientador (X) ~ provavelmente irá gerar telas extras       
 tela logadoGerenteDeEstagio ( ) ~ provavelmente irá gerar telas extras       
-tela logadoAluno ( ) ~ provavelmente irá gerar telas extras       
+tela logadoAluno (X) ~ provavelmente irá gerar telas extras       
