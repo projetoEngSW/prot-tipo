@@ -6,4 +6,6 @@ tela esqueciASenha (X)
 tela faleConosco (X)         
 tela cadastro (X)      
 tela divulgarVaga (X)             
-tela logado ( ) ~ provavelmente irá gerar telas extras       
+tela logadoOrientador (X) ~ provavelmente irá gerar telas extras       
+tela logadoGerenteDeEstagio ( ) ~ provavelmente irá gerar telas extras       
+tela logadoAluno ( ) ~ provavelmente irá gerar telas extras       
