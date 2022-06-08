@@ -9,3 +9,5 @@ tela divulgarVaga (X)
 tela logadoOrientador (X) ~ provavelmente irá gerar telas extras       
 tela logadoGerenteDeEstagio ( ) ~ provavelmente irá gerar telas extras       
 tela logadoAluno (X) ~ provavelmente irá gerar telas extras       
+
+pendente: upar as png's do prototipo
