@@ -12,7 +12,7 @@ tela logadoAluno (X) ~ provavelmente irá gerar telas extras
 
 *leitura dos arquivos: tela|NomeDaTela|Usuário|PTTP*
 
-exemplo: telaGerenciarSistemaAluno2GerentePTTP.png
+exemplo: telaGerenciarSistemaAluno2GerentePTTP.png                  
          remete à segunda tela de gerenciar sistema, na seção alternar para Aluno, do usuário Gerente
          
 
