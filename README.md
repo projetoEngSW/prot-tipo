@@ -10,4 +10,9 @@ tela logadoOrientador (X) ~ provavelmente irá gerar telas extras
 tela logadoGerenteDeEstagio (X) ~ provavelmente irá gerar telas extras       
 tela logadoAluno (X) ~ provavelmente irá gerar telas extras       
 
-pendente: upar as png's do prototipo
+leitura dos arquivos: tela|NomeDaTela|Usuário|PTTP
+
+exemplo: telaGerenciarSistemaAluno2GerentePTTP.png
+         remete à segunda tela de gerenciar sistema, na seção alternar para Aluno, do usuário Gerente
+         
+
